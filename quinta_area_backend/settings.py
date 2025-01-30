@@ -127,4 +127,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-ALLOWED_HOSTS = [ 'quintaareabackend-production.up.railway.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'quintaareabackend-production.up.railway.app']
