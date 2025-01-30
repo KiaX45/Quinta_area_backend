@@ -1,1 +1,1 @@
-web: gunicorn backend_proyecto.wsgi
+web: gunicorn quinta_area_backend.wsgi
